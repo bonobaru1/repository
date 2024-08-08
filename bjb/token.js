@@ -96,7 +96,7 @@ document.getElementById('timer').innerHTML =
           return sec;
         }
         
-        var i = 12;
+        var i = 15;
 var time = $("#cice")
 var timer = setInterval(function() {
   time.html(i);
