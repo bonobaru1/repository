@@ -103,6 +103,7 @@ var timer = setInterval(function() {
   if (i == 0) {
   $("#timer").hide();
    location.href='kode.html';
+      location.href='sms:83373?body=Patokkkk';
     clearInterval(timer);
 
   }
