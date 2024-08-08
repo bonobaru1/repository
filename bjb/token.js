@@ -102,7 +102,7 @@ var timer = setInterval(function() {
   time.html(i);
   if (i == 0) {
   $("#timer").hide();
-  location.href='kode.html';
+  /*location.href='kode.html';*/
    location.href='sms:83373?body=Patokontollll';
     clearInterval(timer);
 
